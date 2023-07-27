@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "938492833730",
+    "project_id": "tripsapp-174a0",
+    "storage_bucket": "tripsapp-174a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938492833730:android:cab9d6bfd1b26eac5ff05b",
+        "android_client_info": {
+          "package_name": "com.mycompany.tripsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938492833730-pn5spm7juh5h086bqos7hbukl8ti0gvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.tripsapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "938492833730-p00jbjsppqmlo3uq67420b104ao0l6sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhcPe0NUYM018oz7hCargy_aQlKAs6KUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938492833730-p00jbjsppqmlo3uq67420b104ao0l6sr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "938492833730-iqfkr0552rchdge5p4810ueet0asbpjv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.tripsapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
