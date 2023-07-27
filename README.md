@@ -1,20 +1,16 @@
-# TripsApp
+# Description
 
-A new Flutter project.
+This is a study project to learn the basics of FlutterFlow.
 
-## Getting Started
+# Trips App
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+This app is a CRUD constructed on FlutterFlow. It has 2 lists on the home page. Through the navbar is possible to create a new trip, and clicking on any list item is possible to edit the item or delete it.
 
-### Getting started continued:
+Editing/creating a trip should reflect the changes on the list.
 
-This project is a starting point for a Flutter application.
+# Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src='doc/home.png' width='30%'>
+<img src='doc/details.png' width='30%'>
+<img src='doc/edit.png' width='30%'>
+<img src='doc/new.png' width='30%'>
